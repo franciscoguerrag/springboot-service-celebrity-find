@@ -25,7 +25,6 @@ public class CelebrityFinderCollection extends CelebrityFinder{
 		catch (Exception e) {
 			 throw e;
 		}
-		
 	}
 	
 	/**
