@@ -2,6 +2,15 @@
 
 Spring Boot application for finding a celebrity in a team of n people
 
+**This is the main microservice, you just need to open the next URL after you deploy locally the microservices**
+
+### URLs
+
+|  URL |  Method | Response |
+|----------|--------------|--------------|
+|`http://localhost:9001/findCelebrity`                           | GET | No value present / Celebrity Name|
+
+
 ## Diagram
 
 ![alt text](https://github.com/franciscoguerrag/springboot-service-celebrity-people/blob/master/celebrityDiagram.png)
@@ -39,11 +48,6 @@ Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/
 The server port for the application by default is 9001
 You can change it in Application.properties.
 
-### URLs
-
-|  URL |  Method | Response |
-|----------|--------------|--------------|
-|`http://localhost:9001/findCelebrity`                           | GET | No value present / Celebrity Name|
 
 ## Running the tests
 
