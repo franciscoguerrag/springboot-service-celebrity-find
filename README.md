@@ -16,6 +16,11 @@ Maven 3
 
 There are several ways to run a Spring Boot application on your local machine. One way is to execute the `main` method in the `com.springboot.app.celebrityFind.SpringbootServiceCelebrityFindApplication` class from your IDE.
 
+
+- Select the project and run as Spring Boot APP.
+
+or
+
 - Download the zip or clone the Git repository.
 - Unzip the zip file (if you downloaded one)
 - Open Command Prompt and Change directory (cd) to folder containing pom.xml
@@ -25,7 +30,7 @@ There are several ways to run a Spring Boot application on your local machine. O
 - Choose the Spring Boot Application file (search for @SpringBootApplication)
 - Right Click on the file and Run as Java Application
 
-Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins-maven-plugin.html) like so:
+Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins-maven-plugin.html)
 
 The server port for the application by default is 9001
 You can change it in Application.properties.
