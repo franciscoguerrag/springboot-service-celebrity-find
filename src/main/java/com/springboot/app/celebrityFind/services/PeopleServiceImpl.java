@@ -33,5 +33,4 @@ public class PeopleServiceImpl implements IPeopleService {
 		return person;
 	}
 
-	
 }
