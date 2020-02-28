@@ -2,6 +2,10 @@
 
 Spring Boot application for finding a celebrity in a team of n people
 
+## Diagram
+
+![alt text](https://github.com/franciscoguerrag/springboot-service-celebrity-people/blob/master/celebrityDiagram.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine.
